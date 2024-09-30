@@ -21,7 +21,7 @@ let dec = `*👋 Hello ${pushname}*
 *©Ｓᴘᴇᴇᴅ ＭᴀＸＸ- ＭＤ₂ₒ₂₄*
 
 `
-await conn.sendMessage(from,{image:{url: `https://camo.githubusercontent.com/f422fd88a31ee2c27508625c26438835aab6142b99049ad790489a2c84be074d/68747470733a2f2f692e6962622e636f2f6b71447471774a2f5448454e552d4d442d75752e706e67`},caption:dec},{quoted:mek});
+await conn.sendMessage(from,{image:{url: `https://i.ibb.co/10pBNvp/Speed-Maxx.jpg`},caption:dec},{quoted:mek});
 
 }catch(e){
 console.log(e)
