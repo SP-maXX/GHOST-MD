@@ -69,9 +69,9 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Bot connected to whatsapp ✅')
 
-let up = `GHOST-MD connected successful ✅\n\nPREFIX: ${prefix}`;
+let up = `Ｓᴘᴇᴇᴅ ＭᴀＸＸ- ＭＤ connected successful ✅\n\nPREFIX: ${prefix}`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/397000a07a1deb7fad9c2.jpg` }, caption: up })
+conn.sendMessage(94771599796", { image: { url: `https://i.ibb.co/10pBNvp/Speed-Maxx.jpg` }, caption: up })
 
 }
 })
@@ -141,10 +141,20 @@ if(!isOwner && isGroup && config.MODE === "inbox") return
 if(!isOwner && !isGroup && config.MODE === "groups") return
 //====================react============================
 
-if(senderNumber.includes("94741140620")){
-if(isReact) return
-m.react("👻")
+if(senderNumber.includes("94772726437")){
+if(isReact) return 
+m.react ("👨🏻‍💻")
 }
+        
+if(senderNumber.includes("94771599796")){
+if(isReact) return 
+m.react ("🧚‍♂️")
+} 
+
+if(senderNumber.includes("94784243401")){
+if(isReact) return 
+m.react ("🧚🏻‍♀️")
+}      
 
 const events = require('./command')
 const cmdName = isCmd ? body.slice(1).trim().split(" ")[0].toLowerCase() : false;
