@@ -32,7 +32,7 @@ let dec = `╭──────────────────────
         mimetype: 'audio/mp4',
         ptt: true
     }, { quoted: mek });
-await conn.sendMessage(from,{image:{url: `https://i.ibb.co/hZp66L6/THENU-MD-LOGO.png`},caption:dec},{quoted:mek});
+await conn.sendMessage(from,{image:{url: `https://i.ibb.co/10pBNvp/Speed-Maxx.jpg`},caption:dec},{quoted:mek});
 
 }catch(e){
 console.log(e)
