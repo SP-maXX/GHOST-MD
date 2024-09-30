@@ -1,19 +1,45 @@
 const config = require('../config')
+
 const {cmd , commands} = require('../command')
-const { fetchJson } = require('../lib/functions')
+
+
 
 cmd({
-    pattern: "ai",
-    desc: "ai chat",
+
+    pattern: "support",
+
+    desc: "To get the bot informations.",
+
+    react: "👨‍🚀",
+
     category: "main",
+
     filename: __filename
+
 },
+
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
+
 try{
-let data = await fetchJson(`https://chatgptforprabath-md.vercel.app/api/gptv1?q=${q}`)
-return reply(`${data.data}`)
+
+
+
+let about = ` *👋 Hello ${pushname}*
+
+*⚒️ Ｓᴘᴇᴇᴅ ＭᴀＸＸ- ＭＤ Support Channel⚒️*
+
+*Whatsapp Channel Link:* https://whatsapp.com/channel/0029ValiESUEVccTtxqLST2x
+
+> ❯❯ ©Ｓᴘᴇᴇᴅ ＭᴀＸＸ- 2024> `
+
+
+
 }catch(e){
+
 console.log(e)
+
 reply(`${e}`)
+
 }
+
 })
