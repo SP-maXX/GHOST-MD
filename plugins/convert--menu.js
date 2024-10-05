@@ -24,7 +24,7 @@ async (client, message, data) => {    // Async function triggered when the comma
     // Creating the message to send
     let messageContent = `
       👋 Hello *${data.pushname}* 👨‍💻\n\n
-      > 👨‍💻 𝓣𝓱𝓮𝓷𝓾𝓵𝓪 𝓟𝓪𝓷𝓪𝓹𝓲𝓽𝓲💫\n
+      > 👨‍💻 Ｓᴘᴇᴇᴅ ＭᴀＸＸ- ＭＤ\n
       ─ *ʙᴏᴛ* : Ｓᴘᴇᴇᴅ ＭᴀＸＸ- ＭＤ\n
       ─ᴠᴇʀsɪᴏɴ : 1.0.0\n
       ─ᴠᴇʀsɪᴏɴ : 1.0.0\n
