@@ -1,1 +1,75 @@
-function _0xf812(_0x3663cd,_0x1e6f78){const _0x3df22f=_0x3df2();return _0xf812=function(_0xf81282,_0x20271f){_0xf81282=_0xf81282-0x1d0;let _0x43adcd=_0x3df22f[_0xf81282];return _0x43adcd;},_0xf812(_0x3663cd,_0x1e6f78);}const _0xc72c35=_0xf812;(function(_0x556309,_0x5f1075){const _0x4454c6=_0xf812,_0x3c49bf=_0x556309();while(!![]){try{const _0x2532ab=parseInt(_0x4454c6(0x1d4))/0x1*(-parseInt(_0x4454c6(0x1d5))/0x2)+parseInt(_0x4454c6(0x1e6))/0x3+-parseInt(_0x4454c6(0x1d1))/0x4+-parseInt(_0x4454c6(0x1dd))/0x5+parseInt(_0x4454c6(0x1dc))/0x6*(-parseInt(_0x4454c6(0x1d0))/0x7)+-parseInt(_0x4454c6(0x1e3))/0x8+parseInt(_0x4454c6(0x1db))/0x9;if(_0x2532ab===_0x5f1075)break;else _0x3c49bf['push'](_0x3c49bf['shift']());}catch(_0x4ce1d2){_0x3c49bf['push'](_0x3c49bf['shift']());}}}(_0x3df2,0xc1a65));const {readEnv}=require('../lib/database'),{cmd,commands}=require(_0xc72c35(0x1d8));cmd({'pattern':_0xc72c35(0x1d9),'desc':_0xc72c35(0x1e4),'category':_0xc72c35(0x1d9),'react':'💻','filename':__filename},async(_0xc138b,_0x5412e3,_0x26ba8c,{from:_0x10c755,quoted:_0x4441ce,body:_0x478e22,isCmd:_0x16844d,command:_0x13e68f,args:_0xed82dc,q:_0x56310b,isGroup:_0x228863,sender:_0x4547eb,senderNumber:_0x375290,botNumber2:_0xd91824,botNumber:_0x5cbc85,pushname:_0x176727,isMe:_0x4a98d3,isOwner:_0x3ecb0e,groupMetadata:_0x54cc6c,groupName:_0x349eb9,participants:_0x176cae,groupAdmins:_0x304017,isBotAdmins:_0x9d4b6c,isAdmins:_0x1c33fc,reply:_0x428d81})=>{const _0x1775ce=_0xc72c35;try{const _0x4e6497=await readEnv();let _0xb4fba={'download':''};for(let _0x57f625=0x0;_0x57f625<commands[_0x1775ce(0x1e5)];_0x57f625++){commands[_0x57f625][_0x1775ce(0x1e2)]&&!commands[_0x57f625][_0x1775ce(0x1d3)]&&(_0xb4fba[commands[_0x57f625][_0x1775ce(0x1df)]]+=''+_0x4e6497[_0x1775ce(0x1de)]+commands[_0x57f625][_0x1775ce(0x1e2)]+'\x0a');}let _0x4fb0bf=_0x1775ce(0x1e7)+_0x176727+_0x1775ce(0x1e1)+_0xb4fba['download']+_0x1775ce(0x1d2);await _0xc138b['sendMessage'](_0x10c755,{'audio':{'url':'https://github.com/prabathLK/AUTO-VOICE-SENDER-PRABATH-MD-/raw/refs/heads/main/plugins/bgm/AUD-20221018-WA0231.mp3\x20'},'mimetype':_0x1775ce(0x1d6),'ptt':!![]},{'quoted':_0x5412e3}),await _0xc138b[_0x1775ce(0x1e0)](_0x10c755,{'image':{'url':_0x1775ce(0x1da)},'caption':_0x4fb0bf},{'quoted':_0x5412e3});}catch(_0x5c3172){console[_0x1775ce(0x1d7)](_0x5c3172),_0x428d81(''+_0x5c3172);}});function _0x3df2(){const _0x26a98e=['length','3655965AhKDrT','\x0a*👋\x20Hello\x20','7yEltjF','4764916HmWXHs','\x0a\x0a╰───────────●●►\x0a\x20\x20','dontAddCommandList','1FRGNts','309988rCxVOh','audio/mp4','log','../command','download','https://i.ibb.co/L5sCQ8v/DOWNLOAD.png','25258410rgAsyH','95052XzCfNd','2451530kBqMbI','PREFIX','category','sendMessage','*\x0a\x0a>\x20👨‍💻\x20​🇹​​🇭​​🇪​​🇳​​🇺​-​🇲​​🇩​\x20​🇲​​🇪​​🇳​​🇺​👨‍💻\x0a\x0a👨🏻‍💻⚟\x20*ɴᴀᴍᴇ\x20ʙᴏᴛ*\x20:\x20ᵀʰᵉⁿᵘ⁻ᴹᴰ💫\x0a👨🏻‍💻⚟\x20*ᴄʀᴇᴀᴛᴏʀ*\x20:\x20\x20𝓣𝓱𝓮𝓷𝓾𝓵𝓪\x20𝓟𝓪𝓷𝓪𝓹𝓲𝓽𝓲💫\x0a👨🏻‍💻⚟*ᴠᴇʀsɪᴏɴs*\x20:\x206.0.0\x20(ᴀᴅᴅᴇᴅ\x20ʜɪᴅᴅᴇɴ\x20ғᴇᴀᴜᴛᴜʀᴇs)💫\x0a👨🏻‍💻⚟\x20*ᴄᴏɴᴛᴀᴄᴛ*\x20:\x20https://wa.me/94757096717\x20💫\x0a\x0a╭───────────●●►\x0a│📜\x20DOWNLOAD\x20COMMANDS\x0a│───────\x0a','pattern','11036680BbZJem','get\x20bot\x20download\x20cmd.'];_0x3df2=function(){return _0x26a98e;};return _0x3df2();}
+const { readEnv } = require('../lib/database');
+const { cmd, commands } = require('../command');
+
+// Define the command with pattern 'download' and related properties
+cmd({
+  'pattern': 'download',
+  'desc': 'get bot download cmd.',
+  'category': 'download',
+  'react': '💻',
+  'filename': __filename
+}, async (
+  message, 
+  match, 
+  data, 
+  { 
+    from, 
+    quoted, 
+    body, 
+    isCmd, 
+    command, 
+    args, 
+    q, 
+    isGroup, 
+    sender, 
+    senderNumber, 
+    botNumber2, 
+    botNumber, 
+    pushname, 
+    isMe, 
+    isOwner, 
+    groupMetadata, 
+    groupName, 
+    participants, 
+    groupAdmins, 
+    isBotAdmins, 
+    isAdmins, 
+    reply 
+  }
+) => {
+  try {
+    // Read environment configuration
+    const env = await readEnv();
+
+    // Initialize a command list for download
+    let commandList = { 'download': '' };
+
+    // Loop through all commands and append to the command list
+    for (let i = 0; i < commands.length; i++) {
+      if (commands[i].pattern && !commands[i].dontAddCommandList) {
+        commandList[commands[i].category] += `${env.PREFIX}${commands[i].pattern}\n`;
+      }
+    }
+
+    // Prepare the message with the command information
+    let messageText = `👋 Hello ${pushname}\n\n`;
+    messageText += `💻 Download Commands\n\n${commandList['download']}\n`;
+    messageText += `╰───────────●●►`;
+
+    // Send audio and image with the message
+    await message.sendMessage(from, {
+      'audio': { 'url': 'https://github.com/prabathLK/AUTO-VOICE-SENDER-PRABATH-MD-/raw/refs/heads/main/plugins/bgm/AUD-20221018-WA0231.mp3' },
+      'mimetype': 'audio/mp4',
+      'ptt': true
+    }, { 'quoted': quoted });
+
+    await message.sendMessage(from, {
+      'image': { 'url': 'https://i.ibb.co/10pBNvp/Speed-Maxx.jpg' },
+      'caption': messageText
+    }, { 'quoted': quoted });
+
+  } catch (error) {
+    console.log(error);
+    reply(`${error}`);
+  }
+});
